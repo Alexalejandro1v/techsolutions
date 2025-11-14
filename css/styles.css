@@ -190,6 +190,7 @@ nav {
 }
 
 .about p {
+    hyphens: auto;
     font-size: 1.1rem;
     margin-bottom: 1.5rem;
     line-height: 1.8;
@@ -378,4 +379,5 @@ footer {
     .about-text {
         text-align: center;
     }
+
 }
